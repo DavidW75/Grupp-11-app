@@ -1,5 +1,9 @@
+x = 10
 
-print("hello world")
+y = 9
 
-#apa
+if x > y:
+    print("wow")
+else:
+    print("Buuuuu")
 
